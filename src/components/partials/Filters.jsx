@@ -48,7 +48,7 @@ const StyledFilters = styled.div`
     @media (max-width: ${({theme}) => theme.media.tab}){
         .toggle-me{
             position: absolute;
-            left: -100%;
+            left: -150%;
             top:35px;
             background-color: whitesmoke;
             padding: 15px;
